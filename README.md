@@ -2,6 +2,8 @@
 
 A library & toolkit for Curriculum Learning.
 
+The code of the ACM MM 2022 Open Source Software [paper](https://github.com/THUMNLab/CurML/raw/master/docs/CurML.pdf).
+
 Actively under development by @THUMNLab
 
 ## Target
@@ -32,7 +34,7 @@ An general workflow of curriculum machine learning is illustrated below.
 
 ``` bash
 # 1. clone from the repository
-git clone https://github.com/zhouyw16/CurML.git
+git clone https://github.com/THUMNLab/CurML
 cd CurML
 
 # 2. pip install local module: curriculum
